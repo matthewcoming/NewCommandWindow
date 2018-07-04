@@ -2,6 +2,10 @@
 
 This is an extremely simple bash script that allows you to execute a command and all of it's arguments in a new terminal FROM the terminal.
 
+## Requirements
+All that is required to use this script is any linux distro that uses a GNOME terminal emulator.
+
+
 ## Setup
 1. Download ncw.sh from this repo, or copy the raw file into a text editor and save it.
 
